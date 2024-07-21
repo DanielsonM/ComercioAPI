@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|c:\\users\\danie\\documents\\com\u00E9rcio\\comercioapi\\sexshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|solutionrelative:sexshop\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|c:\\users\\danie\\documents\\com\u00E9rcio\\comercioapi\\sexshop\\infraestrutura\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|solutionrelative:sexshop\\infraestrutura\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|c:\\users\\danie\\documents\\com\u00E9rcio\\comercioapi\\sexshop\\infraestrutura\\repositorio\\dbconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|solutionrelative:sexshop\\infraestrutura\\repositorio\\dbconexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|c:\\users\\danie\\documents\\com\u00E9rcio\\comercioapi\\sexshop\\dominio\\model\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|solutionrelative:sexshop\\dominio\\model\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|c:\\users\\danie\\documents\\com\u00E9rcio\\comercioapi\\sexshop\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|solutionrelative:sexshop\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|c:\\users\\danie\\documents\\com\u00E9rcio\\comercioapi\\sexshop\\aplicacao\\servi\u00E7os\\servicodetokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|solutionrelative:sexshop\\aplicacao\\servi\u00E7os\\servicodetokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|c:\\users\\danie\\documents\\com\u00E9rcio\\comercioapi\\sexshop\\aplicacao\\servi\u00E7os\\viewmodel\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|solutionrelative:sexshop\\aplicacao\\servi\u00E7os\\viewmodel\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|c:\\users\\danie\\documents\\com\u00E9rcio\\comercioapi\\sexshop\\dominio\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|solutionrelative:sexshop\\dominio\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|c:\\users\\danie\\documents\\com\u00E9rcio\\comercioapi\\sexshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|solutionrelative:sexshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|c:\\users\\danie\\documents\\com\u00E9rcio\\comercioapi\\sexshop\\dominio\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0A0DAA-AF2F-4531-BD26-63FA085F35FE}|SexShop\\Comercio.csproj|solutionrelative:sexshop\\dominio\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SexShop\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SexShop\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:49:08.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Aplicacao\\Servi\u00E7os\\ViewModel\\ProdutoViewModel.cs",
+              "RelativeDocumentMoniker": "SexShop\\Aplicacao\\Servi\u00E7os\\ViewModel\\ProdutoViewModel.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Aplicacao\\Servi\u00E7os\\ViewModel\\ProdutoViewModel.cs",
+              "RelativeToolTip": "SexShop\\Aplicacao\\Servi\u00E7os\\ViewModel\\ProdutoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:48:11.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Dominio\\DTO\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "SexShop\\Dominio\\DTO\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Dominio\\DTO\\ProdutoDTO.cs",
+              "RelativeToolTip": "SexShop\\Dominio\\DTO\\ProdutoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:47:42.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Infraestrutura\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "SexShop\\Infraestrutura\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Infraestrutura\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "SexShop\\Infraestrutura\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:46:56.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbConexao.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Infraestrutura\\Repositorio\\DbConexao.cs",
+              "RelativeDocumentMoniker": "SexShop\\Infraestrutura\\Repositorio\\DbConexao.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Infraestrutura\\Repositorio\\DbConexao.cs",
+              "RelativeToolTip": "SexShop\\Infraestrutura\\Repositorio\\DbConexao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:46:49.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Dominio\\Model\\IProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "SexShop\\Dominio\\Model\\IProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Dominio\\Model\\IProdutoRepositorio.cs",
+              "RelativeToolTip": "SexShop\\Dominio\\Model\\IProdutoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:46:29.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "SexShop\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "SexShop\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:45:56.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicoDeTokens.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Aplicacao\\Servi\u00E7os\\ServicoDeTokens.cs",
+              "RelativeDocumentMoniker": "SexShop\\Aplicacao\\Servi\u00E7os\\ServicoDeTokens.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Aplicacao\\Servi\u00E7os\\ServicoDeTokens.cs",
+              "RelativeToolTip": "SexShop\\Aplicacao\\Servi\u00E7os\\ServicoDeTokens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:45:34.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Dominio\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "SexShop\\Dominio\\Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Dominio\\Model\\Produto.cs",
+              "RelativeToolTip": "SexShop\\Dominio\\Model\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:45:12.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Program.cs",
+              "RelativeDocumentMoniker": "SexShop\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\Com\u00E9rcio\\ComercioAPI\\SexShop\\Program.cs",
+              "RelativeToolTip": "SexShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:44:13.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
