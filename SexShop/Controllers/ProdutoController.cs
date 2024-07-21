@@ -6,7 +6,7 @@ using Comercio.Dominio.Model;
 namespace Comercio.Controllers
 {
     [ApiController]
-    [Route("api/sexshop")]
+    [Route("api/Comercio")]
     public class ProdutoController : ControllerBase
     {
         private readonly IProdutoRepositorio _iProduto;

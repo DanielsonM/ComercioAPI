@@ -246,3 +246,4 @@ C:\Users\danie\Documents\Comércio\ComercioAPI\SexShop\obj\Debug\net8.0\refint\C
 C:\Users\danie\Documents\Comércio\ComercioAPI\SexShop\obj\Debug\net8.0\Comercio.pdb
 C:\Users\danie\Documents\Comércio\ComercioAPI\SexShop\obj\Debug\net8.0\Comercio.genruntimeconfig.cache
 C:\Users\danie\Documents\Comércio\ComercioAPI\SexShop\obj\Debug\net8.0\ref\Comercio.dll
+C:\Users\danie\Documents\Comércio\ComercioAPI\SexShop\obj\Debug\net8.0\Comercio.sourcelink.json
